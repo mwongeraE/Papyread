@@ -18,6 +18,11 @@ import it.gmariotti.cardslib.library.internal.CardArrayAdapter;
 import it.gmariotti.cardslib.library.internal.CardHeader;
 import it.gmariotti.cardslib.library.internal.CardThumbnail;
 import it.gmariotti.cardslib.library.view.CardListView;
+import papybooks.interests;
+import papybooks.main_home;
+import papybooks.mybooks;
+import papybooks.profile;
+import papybooks.share;
 
 /**
  * Created by mwongera on 4/27/16.
