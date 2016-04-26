@@ -7,7 +7,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.mwongera.newcard.R;
+import com.example.mwongera.papyread.R;
+
 
 /**
  * Created by root on 3/11/16.
