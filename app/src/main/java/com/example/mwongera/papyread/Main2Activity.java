@@ -46,7 +46,7 @@ public class Main2Activity extends Activity {
      * @param v
      */
     public void btnCardListDemoClick(View v){
-        Intent intent = new Intent(this, CardListActivity.class);
+        Intent intent = new Intent(this, Cardlistactivity.class);
         startActivity(intent);
     }
 
